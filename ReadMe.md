@@ -112,8 +112,8 @@ id: Mauritania
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Mauritania//
-markerFolder: ./Mauritania//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Mauritania] 
