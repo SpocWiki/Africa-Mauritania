@@ -40,11 +40,18 @@ markerFolder: ./Tagant/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritania/Counties/Tagant|Tagant]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritania/Counties/Tagant.public|Tagant.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Tagant.internal|Tagant.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Tagant.protect|Tagant.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritania/Counties/Tagant.private|Tagant.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Tagant.personal|Tagant.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Tagant.secret|Tagant.secret]] 
+
+### #is_/same_as :: [Tagant](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.md) 
+
+### #is_/same_as :: [Tagant.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.public.md) 
+
+### #is_/same_as :: [Tagant.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.internal.md) 
+
+### #is_/same_as :: [Tagant.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.protect.md) 
+
+### #is_/same_as :: [Tagant.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.private.md) 
+
+### #is_/same_as :: [Tagant.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.personal.md) 
+
+### #is_/same_as :: [Tagant.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.secret.md)
 

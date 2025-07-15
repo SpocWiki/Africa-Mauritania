@@ -40,11 +40,18 @@ markerFolder: ./Nouakchott/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritania/Counties/Nouakchott|Nouakchott]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritania/Counties/Nouakchott.public|Nouakchott.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Nouakchott.internal|Nouakchott.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Nouakchott.protect|Nouakchott.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritania/Counties/Nouakchott.private|Nouakchott.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Nouakchott.personal|Nouakchott.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Nouakchott.secret|Nouakchott.secret]] 
+
+### #is_/same_as :: [Nouakchott](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.md) 
+
+### #is_/same_as :: [Nouakchott.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.public.md) 
+
+### #is_/same_as :: [Nouakchott.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.internal.md) 
+
+### #is_/same_as :: [Nouakchott.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.protect.md) 
+
+### #is_/same_as :: [Nouakchott.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.private.md) 
+
+### #is_/same_as :: [Nouakchott.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.personal.md) 
+
+### #is_/same_as :: [Nouakchott.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.secret.md)
 

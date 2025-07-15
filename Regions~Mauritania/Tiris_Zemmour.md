@@ -40,11 +40,18 @@ markerFolder: ./Tiris_Zemmour/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour|Tiris_Zemmour]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.public|Tiris_Zemmour.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.internal|Tiris_Zemmour.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.protect|Tiris_Zemmour.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.private|Tiris_Zemmour.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.personal|Tiris_Zemmour.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Tiris_Zemmour.secret|Tiris_Zemmour.secret]] 
+
+### #is_/same_as :: [Tiris_Zemmour](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.md) 
+
+### #is_/same_as :: [Tiris_Zemmour.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.public.md) 
+
+### #is_/same_as :: [Tiris_Zemmour.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.internal.md) 
+
+### #is_/same_as :: [Tiris_Zemmour.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.protect.md) 
+
+### #is_/same_as :: [Tiris_Zemmour.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.private.md) 
+
+### #is_/same_as :: [Tiris_Zemmour.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.personal.md) 
+
+### #is_/same_as :: [Tiris_Zemmour.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.secret.md)
 

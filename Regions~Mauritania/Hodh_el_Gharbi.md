@@ -40,11 +40,18 @@ markerFolder: ./Hodh_el_Gharbi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritania/Counties/Hodh_el_Gharbi|Hodh_el_Gharbi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritania/Counties/Hodh_el_Gharbi.public|Hodh_el_Gharbi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Hodh_el_Gharbi.internal|Hodh_el_Gharbi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Hodh_el_Gharbi.protect|Hodh_el_Gharbi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritania/Counties/Hodh_el_Gharbi.private|Hodh_el_Gharbi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Hodh_el_Gharbi.personal|Hodh_el_Gharbi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Hodh_el_Gharbi.secret|Hodh_el_Gharbi.secret]] 
+
+### #is_/same_as :: [Hodh_el_Gharbi](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.md) 
+
+### #is_/same_as :: [Hodh_el_Gharbi.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.public.md) 
+
+### #is_/same_as :: [Hodh_el_Gharbi.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.internal.md) 
+
+### #is_/same_as :: [Hodh_el_Gharbi.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.protect.md) 
+
+### #is_/same_as :: [Hodh_el_Gharbi.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.private.md) 
+
+### #is_/same_as :: [Hodh_el_Gharbi.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.personal.md) 
+
+### #is_/same_as :: [Hodh_el_Gharbi.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.secret.md)
 

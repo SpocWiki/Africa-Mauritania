@@ -1,4 +1,4 @@
-﻿---
+---
 location: [18.15,-15.96667] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritania/City/Nouakchott|Nouakchott]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritania/City/Nouakchott.public|Nouakchott.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritania/City/Nouakchott.internal|Nouakchott.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritania/City/Nouakchott.protect|Nouakchott.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritania/City/Nouakchott.private|Nouakchott.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritania/City/Nouakchott.personal|Nouakchott.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritania/City/Nouakchott.secret|Nouakchott.secret]] 
+
+### #is_/same_as :: [Nouakchott](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott/City/Nouakchott.md) 
+
+### #is_/same_as :: [Nouakchott.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott/City/Nouakchott.public.md) 
+
+### #is_/same_as :: [Nouakchott.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott/City/Nouakchott.internal.md) 
+
+### #is_/same_as :: [Nouakchott.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott/City/Nouakchott.protect.md) 
+
+### #is_/same_as :: [Nouakchott.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott/City/Nouakchott.private.md) 
+
+### #is_/same_as :: [Nouakchott.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott/City/Nouakchott.personal.md) 
+
+### #is_/same_as :: [Nouakchott.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott/City/Nouakchott.secret.md)
+

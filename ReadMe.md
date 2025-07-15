@@ -135,10 +135,4 @@ Capital :: [[Nouakchott]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Mauritania|Mauritania]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~West/Mauritania.internal|Mauritania.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~West/Mauritania.protect|Mauritania.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~West/Mauritania.private|Mauritania.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~West/Mauritania.personal|Mauritania.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~West/Mauritania.secret|Mauritania.secret]] 
+

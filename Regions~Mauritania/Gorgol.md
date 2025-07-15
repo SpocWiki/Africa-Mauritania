@@ -40,11 +40,18 @@ markerFolder: ./Gorgol/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritania/Counties/Gorgol|Gorgol]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritania/Counties/Gorgol.public|Gorgol.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Gorgol.internal|Gorgol.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Gorgol.protect|Gorgol.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritania/Counties/Gorgol.private|Gorgol.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Gorgol.personal|Gorgol.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Gorgol.secret|Gorgol.secret]] 
+
+### #is_/same_as :: [Gorgol](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Gorgol.md) 
+
+### #is_/same_as :: [Gorgol.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Gorgol.public.md) 
+
+### #is_/same_as :: [Gorgol.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Gorgol.internal.md) 
+
+### #is_/same_as :: [Gorgol.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Gorgol.protect.md) 
+
+### #is_/same_as :: [Gorgol.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Gorgol.private.md) 
+
+### #is_/same_as :: [Gorgol.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Gorgol.personal.md) 
+
+### #is_/same_as :: [Gorgol.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Gorgol.secret.md)
 

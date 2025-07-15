@@ -40,11 +40,18 @@ markerFolder: ./Hodh_ech_Chargui/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui|Hodh_ech_Chargui]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.public|Hodh_ech_Chargui.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.internal|Hodh_ech_Chargui.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.protect|Hodh_ech_Chargui.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.private|Hodh_ech_Chargui.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.personal|Hodh_ech_Chargui.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Hodh_ech_Chargui.secret|Hodh_ech_Chargui.secret]] 
+
+### #is_/same_as :: [Hodh_ech_Chargui](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.md) 
+
+### #is_/same_as :: [Hodh_ech_Chargui.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.public.md) 
+
+### #is_/same_as :: [Hodh_ech_Chargui.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.internal.md) 
+
+### #is_/same_as :: [Hodh_ech_Chargui.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.protect.md) 
+
+### #is_/same_as :: [Hodh_ech_Chargui.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.private.md) 
+
+### #is_/same_as :: [Hodh_ech_Chargui.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.personal.md) 
+
+### #is_/same_as :: [Hodh_ech_Chargui.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.secret.md)
 
