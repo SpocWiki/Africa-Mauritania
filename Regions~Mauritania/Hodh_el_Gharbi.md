@@ -1,30 +1,29 @@
 ---
-location: [ 16.6 , -9.7 ] 
+location:
+  - 16.6
+  - -9.7
 type: geo-Region
 title: Hodh_el_Gharbi
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Hodh_el_Gharbi
-
+  - Hodh_el_Gharbi
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Hodh_el_Gharbi

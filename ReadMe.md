@@ -1,40 +1,41 @@
 ---
 location:
-- 18.15
-- -15.9667
+  - 18.15
+  - -15.9667
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26968
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Mauritania
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Mauritania
-- Mauritanie
-- موريتانيا
-- 毛里塔尼亚
-- Мавритания
-- the Islamic Republic of Mauritania
-- la República Islámica de Mauritania
+  - Mauritania
+  - Mauritanie
+  - موريتانيا
+  - 毛里塔尼亚
+  - Мавритания
+  - the Islamic Republic of Mauritania
+  - la República Islámica de Mauritania
 Languages:
-- ar-MR
-- fuc
-- snk
-- fr
-- mey
-- wo
+  - ar-MR
+  - fuc
+  - snk
+  - fr
+  - mey
+  - wo
 ---
 
 
