@@ -38,6 +38,7 @@ Languages:
   - wo
 ---
 
+# Mauritania 
 
 [	ISO4217-currency_alphabetic	 :: MRU ] 
 [	ISO4217-currency_name	 :: Ouguiya ] 
@@ -102,10 +103,11 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 478 ] 
 
-
-
 [ISO2::MR] 
 [ISO3::MRT] 
+
+## #has_/map 
+
 ```leaflet
 id: Mauritania
 zoomFeatures: true 
