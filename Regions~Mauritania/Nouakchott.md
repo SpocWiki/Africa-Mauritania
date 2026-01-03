@@ -65,19 +65,20 @@ markerFile: [[Nouakchott]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nouakchott)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nouakchott](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott|Nouakchott]] 
 
-### #is_/same_as :: [Nouakchott.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.public|Nouakchott.public]] 
 
-### #is_/same_as :: [Nouakchott.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.internal|Nouakchott.internal]] 
 
-### #is_/same_as :: [Nouakchott.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.protect|Nouakchott.protect]] 
 
-### #is_/same_as :: [Nouakchott.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.private|Nouakchott.private]] 
 
-### #is_/same_as :: [Nouakchott.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.personal|Nouakchott.personal]] 
 
-### #is_/same_as :: [Nouakchott.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Nouakchott.secret|Nouakchott.secret]] 
 

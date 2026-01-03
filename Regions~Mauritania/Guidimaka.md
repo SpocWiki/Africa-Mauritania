@@ -40,17 +40,17 @@ markerFolder: ./Guidimaka/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guidimaka](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Guidimaka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Guidimaka|Guidimaka]] 
 
-### #is_/same_as :: [Guidimaka.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Guidimaka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Guidimaka.public|Guidimaka.public]] 
 
-### #is_/same_as :: [Guidimaka.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Guidimaka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Guidimaka.internal|Guidimaka.internal]] 
 
-### #is_/same_as :: [Guidimaka.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Guidimaka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Guidimaka.protect|Guidimaka.protect]] 
 
-### #is_/same_as :: [Guidimaka.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Guidimaka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Guidimaka.private|Guidimaka.private]] 
 
-### #is_/same_as :: [Guidimaka.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Guidimaka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Guidimaka.personal|Guidimaka.personal]] 
 
-### #is_/same_as :: [Guidimaka.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Guidimaka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Guidimaka.secret|Guidimaka.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Trarza/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trarza](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Trarza.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Trarza|Trarza]] 
 
-### #is_/same_as :: [Trarza.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Trarza.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Trarza.public|Trarza.public]] 
 
-### #is_/same_as :: [Trarza.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Trarza.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Trarza.internal|Trarza.internal]] 
 
-### #is_/same_as :: [Trarza.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Trarza.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Trarza.protect|Trarza.protect]] 
 
-### #is_/same_as :: [Trarza.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Trarza.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Trarza.private|Trarza.private]] 
 
-### #is_/same_as :: [Trarza.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Trarza.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Trarza.personal|Trarza.personal]] 
 
-### #is_/same_as :: [Trarza.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Trarza.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Trarza.secret|Trarza.secret]] 
 

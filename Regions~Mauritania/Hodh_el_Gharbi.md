@@ -40,17 +40,17 @@ markerFolder: ./Hodh_el_Gharbi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hodh_el_Gharbi](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi|Hodh_el_Gharbi]] 
 
-### #is_/same_as :: [Hodh_el_Gharbi.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.public|Hodh_el_Gharbi.public]] 
 
-### #is_/same_as :: [Hodh_el_Gharbi.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.internal|Hodh_el_Gharbi.internal]] 
 
-### #is_/same_as :: [Hodh_el_Gharbi.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.protect|Hodh_el_Gharbi.protect]] 
 
-### #is_/same_as :: [Hodh_el_Gharbi.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.private|Hodh_el_Gharbi.private]] 
 
-### #is_/same_as :: [Hodh_el_Gharbi.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.personal|Hodh_el_Gharbi.personal]] 
 
-### #is_/same_as :: [Hodh_el_Gharbi.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_el_Gharbi.secret|Hodh_el_Gharbi.secret]] 
 

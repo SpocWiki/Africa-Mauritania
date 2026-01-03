@@ -40,17 +40,17 @@ markerFolder: ./Tagant/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tagant](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant|Tagant]] 
 
-### #is_/same_as :: [Tagant.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.public|Tagant.public]] 
 
-### #is_/same_as :: [Tagant.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.internal|Tagant.internal]] 
 
-### #is_/same_as :: [Tagant.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.protect|Tagant.protect]] 
 
-### #is_/same_as :: [Tagant.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.private|Tagant.private]] 
 
-### #is_/same_as :: [Tagant.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.personal|Tagant.personal]] 
 
-### #is_/same_as :: [Tagant.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tagant.secret|Tagant.secret]] 
 

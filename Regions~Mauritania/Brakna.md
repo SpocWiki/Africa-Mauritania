@@ -40,17 +40,17 @@ markerFolder: ./Brakna/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brakna](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Brakna.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Brakna|Brakna]] 
 
-### #is_/same_as :: [Brakna.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Brakna.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Brakna.public|Brakna.public]] 
 
-### #is_/same_as :: [Brakna.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Brakna.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Brakna.internal|Brakna.internal]] 
 
-### #is_/same_as :: [Brakna.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Brakna.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Brakna.protect|Brakna.protect]] 
 
-### #is_/same_as :: [Brakna.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Brakna.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Brakna.private|Brakna.private]] 
 
-### #is_/same_as :: [Brakna.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Brakna.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Brakna.personal|Brakna.personal]] 
 
-### #is_/same_as :: [Brakna.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Brakna.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Brakna.secret|Brakna.secret]] 
 

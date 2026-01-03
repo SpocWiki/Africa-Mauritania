@@ -40,17 +40,17 @@ markerFolder: ./Dakhlet_Nouadhibou/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dakhlet_Nouadhibou](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Dakhlet_Nouadhibou.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Dakhlet_Nouadhibou|Dakhlet_Nouadhibou]] 
 
-### #is_/same_as :: [Dakhlet_Nouadhibou.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Dakhlet_Nouadhibou.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Dakhlet_Nouadhibou.public|Dakhlet_Nouadhibou.public]] 
 
-### #is_/same_as :: [Dakhlet_Nouadhibou.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Dakhlet_Nouadhibou.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Dakhlet_Nouadhibou.internal|Dakhlet_Nouadhibou.internal]] 
 
-### #is_/same_as :: [Dakhlet_Nouadhibou.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Dakhlet_Nouadhibou.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Dakhlet_Nouadhibou.protect|Dakhlet_Nouadhibou.protect]] 
 
-### #is_/same_as :: [Dakhlet_Nouadhibou.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Dakhlet_Nouadhibou.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Dakhlet_Nouadhibou.private|Dakhlet_Nouadhibou.private]] 
 
-### #is_/same_as :: [Dakhlet_Nouadhibou.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Dakhlet_Nouadhibou.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Dakhlet_Nouadhibou.personal|Dakhlet_Nouadhibou.personal]] 
 
-### #is_/same_as :: [Dakhlet_Nouadhibou.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Dakhlet_Nouadhibou.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Dakhlet_Nouadhibou.secret|Dakhlet_Nouadhibou.secret]] 
 

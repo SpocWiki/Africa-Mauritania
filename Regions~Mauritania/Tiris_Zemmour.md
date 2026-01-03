@@ -40,17 +40,17 @@ markerFolder: ./Tiris_Zemmour/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tiris_Zemmour](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour|Tiris_Zemmour]] 
 
-### #is_/same_as :: [Tiris_Zemmour.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.public|Tiris_Zemmour.public]] 
 
-### #is_/same_as :: [Tiris_Zemmour.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.internal|Tiris_Zemmour.internal]] 
 
-### #is_/same_as :: [Tiris_Zemmour.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.protect|Tiris_Zemmour.protect]] 
 
-### #is_/same_as :: [Tiris_Zemmour.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.private|Tiris_Zemmour.private]] 
 
-### #is_/same_as :: [Tiris_Zemmour.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.personal|Tiris_Zemmour.personal]] 
 
-### #is_/same_as :: [Tiris_Zemmour.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Tiris_Zemmour.secret|Tiris_Zemmour.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Assaba/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Assaba](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Assaba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Assaba|Assaba]] 
 
-### #is_/same_as :: [Assaba.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Assaba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Assaba.public|Assaba.public]] 
 
-### #is_/same_as :: [Assaba.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Assaba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Assaba.internal|Assaba.internal]] 
 
-### #is_/same_as :: [Assaba.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Assaba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Assaba.protect|Assaba.protect]] 
 
-### #is_/same_as :: [Assaba.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Assaba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Assaba.private|Assaba.private]] 
 
-### #is_/same_as :: [Assaba.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Assaba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Assaba.personal|Assaba.personal]] 
 
-### #is_/same_as :: [Assaba.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Assaba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Assaba.secret|Assaba.secret]] 
 

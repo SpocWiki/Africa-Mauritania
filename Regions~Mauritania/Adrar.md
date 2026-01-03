@@ -40,17 +40,17 @@ markerFolder: ./Adrar/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adrar](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Adrar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Adrar|Adrar]] 
 
-### #is_/same_as :: [Adrar.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Adrar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Adrar.public|Adrar.public]] 
 
-### #is_/same_as :: [Adrar.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Adrar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Adrar.internal|Adrar.internal]] 
 
-### #is_/same_as :: [Adrar.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Adrar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Adrar.protect|Adrar.protect]] 
 
-### #is_/same_as :: [Adrar.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Adrar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Adrar.private|Adrar.private]] 
 
-### #is_/same_as :: [Adrar.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Adrar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Adrar.personal|Adrar.personal]] 
 
-### #is_/same_as :: [Adrar.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Adrar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Adrar.secret|Adrar.secret]] 
 

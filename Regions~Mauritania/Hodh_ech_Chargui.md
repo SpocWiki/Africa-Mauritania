@@ -40,17 +40,17 @@ markerFolder: ./Hodh_ech_Chargui/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hodh_ech_Chargui](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui|Hodh_ech_Chargui]] 
 
-### #is_/same_as :: [Hodh_ech_Chargui.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.public|Hodh_ech_Chargui.public]] 
 
-### #is_/same_as :: [Hodh_ech_Chargui.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.internal|Hodh_ech_Chargui.internal]] 
 
-### #is_/same_as :: [Hodh_ech_Chargui.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.protect|Hodh_ech_Chargui.protect]] 
 
-### #is_/same_as :: [Hodh_ech_Chargui.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.private|Hodh_ech_Chargui.private]] 
 
-### #is_/same_as :: [Hodh_ech_Chargui.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.personal|Hodh_ech_Chargui.personal]] 
 
-### #is_/same_as :: [Hodh_ech_Chargui.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Hodh_ech_Chargui.secret|Hodh_ech_Chargui.secret]] 
 

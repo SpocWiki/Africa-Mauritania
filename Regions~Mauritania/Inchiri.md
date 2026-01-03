@@ -40,17 +40,17 @@ markerFolder: ./Inchiri/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inchiri](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Inchiri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Inchiri|Inchiri]] 
 
-### #is_/same_as :: [Inchiri.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Inchiri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Inchiri.public|Inchiri.public]] 
 
-### #is_/same_as :: [Inchiri.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Inchiri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Inchiri.internal|Inchiri.internal]] 
 
-### #is_/same_as :: [Inchiri.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Inchiri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Inchiri.protect|Inchiri.protect]] 
 
-### #is_/same_as :: [Inchiri.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Inchiri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Inchiri.private|Inchiri.private]] 
 
-### #is_/same_as :: [Inchiri.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Inchiri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Inchiri.personal|Inchiri.personal]] 
 
-### #is_/same_as :: [Inchiri.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Inchiri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mauritania/Regions~Mauritania/Inchiri.secret|Inchiri.secret]] 
 
