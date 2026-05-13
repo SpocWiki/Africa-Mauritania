@@ -63,7 +63,7 @@ markerFile: [[Nouakchott]]
 >
 > As of 2023, the city had a population of nearly 1.5 million people and serves as the hub of the Mauritanian economy. It is home to a deepwater port and Nouakchott–Oumtounsy International Airport, one of the country's two international airports. It also hosts the University of Nouakchott and several other more specialized institutions of higher learning.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nouakchott)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nouakchott) 
 
 
 ## Confidential Links & Embeds: 

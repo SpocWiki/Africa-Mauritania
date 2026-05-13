@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Tiris_Zemmour/
 markerFolder: ./Tiris_Zemmour/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

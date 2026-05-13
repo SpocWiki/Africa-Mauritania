@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Dakhlet_Nouadhibou/
 markerFolder: ./Dakhlet_Nouadhibou/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
